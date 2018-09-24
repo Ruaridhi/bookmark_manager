@@ -1,0 +1,17 @@
+VIEW
+
+As a user, in order to see my bookmarks I want to be able to list of bookmarks.
+
+CREATE
+As a user, in order to be able to create my list of url's.
+I want to be able to add new bookmarks and delete unneeded bookmarks.
+
+EDIT
+As a user, in order to be able to manage my bookmarks,
+ I want to be able to update bookmarks and I want to be able to comment on bookmarks.
+
+
+SEARCH
+
+As a user, In order to be able to find bookmarks easily 
+I want to be able to tag bookmarks into categories and filter bookmarks by tags.
